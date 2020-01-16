@@ -1,6 +1,6 @@
 import React, { useState, Component } from 'react';
 import './App.css';
-import Scoreboard from './components/Scoreboard';
+import Scoreboard from './components/Display';
 import Dashboard from './components/Dashboard'; 
 import styled from 'styled-components'
 
